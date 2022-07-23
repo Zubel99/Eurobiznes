@@ -1,0 +1,16 @@
+﻿  Field.cpp
+D:\Programowanie\Eurobiznes\Eurobiznes\Game.h(9,10): fatal error C1083: Cannot open include file: 'SDL2/SDL.h': No such file or directory
+  Game.cpp
+D:\Programowanie\Eurobiznes\Eurobiznes\Game.h(9,10): fatal error C1083: Cannot open include file: 'SDL2/SDL.h': No such file or directory
+  GameObject.cpp
+D:\Programowanie\Eurobiznes\Eurobiznes\Game.h(9,10): fatal error C1083: Cannot open include file: 'SDL2/SDL.h': No such file or directory
+  main.cpp
+D:\Programowanie\Eurobiznes\Eurobiznes\Game.h(9,10): fatal error C1083: Cannot open include file: 'SDL2/SDL.h': No such file or directory
+  Map.cpp
+D:\Programowanie\Eurobiznes\Eurobiznes\Game.h(9,10): fatal error C1083: Cannot open include file: 'SDL2/SDL.h': No such file or directory
+  Player.cpp
+D:\Programowanie\Eurobiznes\Eurobiznes\Game.h(9,10): fatal error C1083: Cannot open include file: 'SDL2/SDL.h': No such file or directory
+  PlayerUI.cpp
+D:\Programowanie\Eurobiznes\Eurobiznes\Game.h(9,10): fatal error C1083: Cannot open include file: 'SDL2/SDL.h': No such file or directory
+  TextureManager.cpp
+D:\Programowanie\Eurobiznes\Eurobiznes\Game.h(9,10): fatal error C1083: Cannot open include file: 'SDL2/SDL.h': No such file or directory

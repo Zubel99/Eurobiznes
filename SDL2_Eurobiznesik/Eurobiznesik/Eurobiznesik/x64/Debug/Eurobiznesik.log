@@ -1,6 +1,0 @@
-﻿  Game.cpp
-D:\Programowanie\SDL2_Eurobiznesik\Eurobiznesik\Eurobiznesik\Game.cpp(51,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-D:\Programowanie\SDL2_Eurobiznesik\Eurobiznesik\Eurobiznesik\Game.cpp(52,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-D:\Programowanie\SDL2_Eurobiznesik\Eurobiznesik\Eurobiznesik\Game.cpp(581,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Programowanie\SDL2_Eurobiznesik\Eurobiznesik\Eurobiznesik\Game.cpp(581,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  Eurobiznesik.vcxproj -> D:\Programowanie\SDL2_Eurobiznesik\Eurobiznesik\x64\Debug\Eurobiznesik.exe
